@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>WebsiteAlive_Connector</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <stability>stable</stability>
     <license uri="http://www.harapartners.com/terms/eula">Hara Partners End User License Agreement</license>
     <channel>community</channel>
@@ -10,8 +10,8 @@
     <description>WebsiteAlive is the easy-to-use Live Chat/Click-To-Call solution for your Magento shopping cart. Visitors can immediately chat or initiate a click-to-call session with someone at your company who can answer their questions, in real-time. This Magento plug-in instantly embeds WebsiteAlive Tracking Code into your shopping cart which tracks visitors in real-time and also displays a call-to-action icon.</description>
     <notes>Stable</notes>
     <authors><author><name>WebsiteAlive</name><user>websitealive</user><email>magento@websitealive.com</email></author></authors>
-    <date>2013-10-15</date>
-    <time>22:43:00</time>
+    <date>2013-10-17</date>
+    <time>00:26:20</time>
     <contents><target name="mageetc"><dir name="modules"><file name="WebsiteAlive_Connector" hash=""/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.10.0</min><max>6.0.0</max></php></required></dependencies>
