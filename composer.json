@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/WebsiteAlive_Connector",
+    "type": "magento-module",
+    "license": "Hara-Partners-End-User-License-Agreement",
+    "homepage": "",
+    "description": "WebsiteAlive is the easy-to-use Live Chat/Click-To-Call solution for your Magento shopping cart.",
+    "authors": [
+    {
+        "name": "WebsiteAlive",
+        "email": "magento@websitealive.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
