@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>WebsiteAlive_Connector</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <stability>stable</stability>
     <license uri="http://www.harapartners.com/terms/eula">Hara Partners End User License Agreement</license>
     <channel>community</channel>
@@ -10,9 +10,9 @@
     <description>WebsiteAlive is the easy-to-use Live Chat/Click-To-Call solution for your Magento shopping cart. Visitors can immediately chat or initiate a click-to-call session with someone at your company who can answer their questions, in real-time. This Magento plug-in instantly embeds WebsiteAlive Tracking Code into your shopping cart which tracks visitors in real-time and also displays a call-to-action icon.</description>
     <notes>Stable</notes>
     <authors><author><name>WebsiteAlive</name><user>websitealive</user><email>magento@websitealive.com</email></author></authors>
-    <date>2013-10-17</date>
-    <time>00:26:20</time>
-    <contents><target name="mageetc"><dir name="modules"><file name="WebsiteAlive_Connector" hash=""/></dir></target></contents>
+    <date>2013-10-23</date>
+    <time>20:01:06</time>
+    <contents><target name="magecommunity"><dir name="WebsiteAlive"><dir name="Connector"><dir name="Block"><file name="Connector.php" hash="d9f71c12be9df503e221c90cfe769374"/></dir><dir name="Helper"><file name="Data.php" hash="47bdea73889322389a027bd02e25783c"/></dir><dir name="Model"><file name="Observer.php" hash="4dbf88faf36cddb5e4d08718225942cf"/><dir name="Source"><file name="Server.php" hash="6fcd7ae78fbe24f5056628500fff4601"/></dir></dir><dir name="etc"><file name="config.xml" hash="ded3059b1e37cda783d28542aa6e2015"/><file name="system.xml" hash="b051022bd44c71b1aaefa48928911d93"/><file name="system.xml.bak" hash="4e94822852cf068e5ad0b231f544845f"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="WebsiteAlive_Connector" hash=""/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.10.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
